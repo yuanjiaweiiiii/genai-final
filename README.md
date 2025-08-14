@@ -21,14 +21,6 @@ This front-end is developed using **Streamlit**, and supports API integration wi
 
 ---
 
-## 📂 Project Structure
-
-```bash
-genai-final/
-├── genai_ui.py            # Main Streamlit front-end
-├── requirements.txt       # Python dependencies
-├── README.md              # This documentation
-└── assets/                # (Optional) Demo screenshots
 
 
 ## 🖥️ Front-End UI Development: Role & Responsibilities
