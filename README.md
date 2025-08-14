@@ -26,7 +26,9 @@ This front-end is developed using **Streamlit**, and supports API integration wi
 ## 🖥️ Front-End UI Development: Role & Responsibilities
 
 As the **UI & Integration Lead**, my responsibility was to develop a front-end interface for our RAG-based chatbot using **Streamlit**, enabling seamless interaction between users and the system.
+## 🖼️ Demo Screenshot
 
+![demo](assets/demo.png)
 ### 🔑 Key Features
 
 The interface was designed with user experience and modular integration in mind, and includes the following core functionalities:
